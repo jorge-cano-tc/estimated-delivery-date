@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Sen:400,700&display=swap");
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  place-items: center;
+  font-size: 35px;
+  font-family: "Sen", sans-serif;
+  font-variant: small-caps;
+  background-color: #b3cef0;
+}
